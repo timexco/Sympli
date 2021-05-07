@@ -1,0 +1,12 @@
+.vs/
+Sympli.API/bin/
+Sympli.API/obj/
+Sympli.Common.AWS/obj/
+Sympli.Common/obj/
+Sympli.Common.AWS/bin/
+Sympli.Common/bin/
+Sympli.SearchRankingAnalyser/bin/
+Sympli.SearchRankingAnalyser/obj/
+Sympli.UnitTest.SearchRankingAnalyser/bin/
+Sympli.UnitTest.SearchRankingAnalyser/obj/
+Sympli.GoogleSearchRankingAnalyser/obj/
